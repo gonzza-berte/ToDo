@@ -1,2 +1,0 @@
-# ToDo
-Aplicación ToDo List
